@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/bollywoodproposal/static/css/main.a2d8f646.chunk.css",
+    "main.js": "/bollywoodproposal/static/js/main.984db8d0.chunk.js",
+    "main.js.map": "/bollywoodproposal/static/js/main.984db8d0.chunk.js.map",
+    "runtime-main.js": "/bollywoodproposal/static/js/runtime-main.e2a3d264.js",
+    "runtime-main.js.map": "/bollywoodproposal/static/js/runtime-main.e2a3d264.js.map",
+    "static/js/2.a94625cb.chunk.js": "/bollywoodproposal/static/js/2.a94625cb.chunk.js",
+    "static/js/2.a94625cb.chunk.js.map": "/bollywoodproposal/static/js/2.a94625cb.chunk.js.map",
+    "static/js/3.d1371e54.chunk.js": "/bollywoodproposal/static/js/3.d1371e54.chunk.js",
+    "static/js/3.d1371e54.chunk.js.map": "/bollywoodproposal/static/js/3.d1371e54.chunk.js.map",
+    "index.html": "/bollywoodproposal/index.html",
+    "service-worker.js": "/bollywoodproposal/service-worker.js",
+    "service-worker.js.map": "/bollywoodproposal/service-worker.js.map",
+    "static/css/main.a2d8f646.chunk.css.map": "/bollywoodproposal/static/css/main.a2d8f646.chunk.css.map",
+    "static/js/2.a94625cb.chunk.js.LICENSE.txt": "/bollywoodproposal/static/js/2.a94625cb.chunk.js.LICENSE.txt",
+    "static/media/f1.a1779882.jpg": "/bollywoodproposal/static/media/f1.a1779882.jpg",
+    "static/media/f2.2e7dee0c.jpg": "/bollywoodproposal/static/media/f2.2e7dee0c.jpg",
+    "static/media/female.78b9e980.png": "/bollywoodproposal/static/media/female.78b9e980.png",
+    "static/media/info.32bdc88e.jpg": "/bollywoodproposal/static/media/info.32bdc88e.jpg",
+    "static/media/male1.f75a687d.png": "/bollywoodproposal/static/media/male1.f75a687d.png",
+    "static/media/male2.14282fd1.png": "/bollywoodproposal/static/media/male2.14282fd1.png",
+    "static/media/male3.01fdcf5e.png": "/bollywoodproposal/static/media/male3.01fdcf5e.png",
+    "static/media/male4.a5e1ac2d.png": "/bollywoodproposal/static/media/male4.a5e1ac2d.png",
+    "static/media/male5.a284a958.png": "/bollywoodproposal/static/media/male5.a284a958.png",
+    "static/media/male6.03fa7920.png": "/bollywoodproposal/static/media/male6.03fa7920.png",
+    "static/media/male7.6054901b.png": "/bollywoodproposal/static/media/male7.6054901b.png",
+    "static/media/throw.97b169da.webp": "/bollywoodproposal/static/media/throw.97b169da.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2a3d264.js",
+    "static/js/2.a94625cb.chunk.js",
+    "static/css/main.a2d8f646.chunk.css",
+    "static/js/main.984db8d0.chunk.js"
+  ]
+}
